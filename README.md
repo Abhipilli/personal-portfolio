@@ -1,2 +1,2 @@
 # personal-portfolio
-my personal portfolio from frontedn devlopment
+my personal portfolio from frontend devlopment
